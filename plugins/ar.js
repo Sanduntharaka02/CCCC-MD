@@ -1,5 +1,4 @@
-import config from '../../config.js';
-
+const config = require('../config')
 const autorecordingCommand = async (m, Matrix) => {
   const botNumber = await Matrix.decodeJid(Matrix.user.id);
   const isCreator = [botNumber, config.OWNER_NUMBER + '@s.whatsapp.net'].includes(m.sender);
