@@ -5,11 +5,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-//SESSION_ID: process.env.SESSION_ID = "qb4xWbbL#0ezg41-XQ-73bwui3LHqxyC-fbmRcg0xsiuJj-BlvvA",
-//MONGODB: process.env.MONGODB || "mongodb+srv://mrck-md-6898:qlmYRWrI9brXoDdJ@cluster0.f8a9jgn.mongodb.net/",
-
-SESSION_ID: process.env.SESSION_ID = "cPNE0bQC#YShImOimxcCB_KXc6NS7eV2b4CqrMGd2TU_Lq2jpoJo",
+SESSION_ID: process.env.SESSION_ID = "qA8BiK6K#BE3hk78Uv_3D2jS5nMLqR5lb4vZDcNK4-7ineuQbR6w",
 MONGODB: process.env.MONGODB || "mongodb+srv://mrck-md-6898:qlmYRWrI9brXoDdJ@cluster0.f8a9jgn.mongodb.net/",
+
+//SESSION_ID: process.env.SESSION_ID = "cPNE0bQC#YShImOimxcCB_KXc6NS7eV2b4CqrMGd2TU_Lq2jpoJo",
+//MONGODB: process.env.MONGODB || "mongodb+srv://mrck-md-6898:qlmYRWrI9brXoDdJ@cluster0.f8a9jgn.mongodb.net/",
     
 //SESSION_ID: process.env.SESSSION_ID = "VtoDgZ6I#XW2NfCKlR43Is3MgHNcLWs7TszoADRFyCheXL1Zd1uY",
 //MONGODB: process.env.MONGODB || "mongodb://mongo:remMADEnKcXlyPWwkUoNqqWfyRuqMAoF@junction.proxy.rlwy.net:34095",
