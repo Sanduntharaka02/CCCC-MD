@@ -15,7 +15,7 @@ module.exports = {
 //MONGODB: process.env.MONGODB || "mongodb+srv://tsandun:246810@cluster0.hpsxf.mongodb.net/",
 
 SESSION_ID: process.env.SESSSION_ID = "1mdy2bJJ#B4jRte3KJxanMjeMrw7bJmjYGHbh55K-Cj6BnObaOpY",
-MONGODB: process.env.MONGODB || "mongodb+srv://mrck-md2:24681012@cluster0.hpsxf.mongodb.net/",
+MONGODB: process.env.MONGODB || "mongodb+srv://mrck-md-6898-2:0iPJ9OqtWQfBNlYN@cluster0.rnd3h.mongodb.net/",
 
 
 };
